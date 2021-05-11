@@ -1,3 +1,3 @@
 Excel Assignments 
 
-Pivot tables and Financial Modelling
+Pivot tables, Financial Modelling, Charts, VLOOKUP, Formulas and more.
